@@ -282,3 +282,78 @@ body {
     text-decoration: none;
     color: #439A97 ;
 }
+
+
+/* ipad */
+
+@media  screen and (max-width: 768px) {
+   
+
+    #header-content {
+        display: flex;
+        
+    }
+
+    .logo {
+        padding-left: 20px;
+        font-size: 30px;
+    }
+
+    #section-container-1 {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .about-me {
+        padding: 0px;
+        text-align: center;
+        width: 100%;
+        height: auto;
+        border-right: none;
+        border-bottom: 4px solid #337876;
+    }
+
+    .section-container-2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .work-project {
+        width: 100%;
+        text-align: center;
+        border-bottom: 4px solid #337876;
+        border-right: none;
+    }
+
+    .flex-container {
+        margin: 0px;
+    }
+
+    .display-box {
+        margin: 5px;
+    }
+
+    .contact-container {
+        display: flex;
+        flex-direction: column;
+        margin-top: 0px;
+
+    }
+
+    .contact-side {
+        width: 100%;
+        height: auto;
+        text-align: center;
+        padding: 0;
+        border-right: none;
+        margin: 0;
+        border-bottom: 4px solid #337876;
+        border-right: none;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-bottom: 10px;
+    }
+
+}
+
