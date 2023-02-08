@@ -48,6 +48,6 @@ when resizing the page you are met with a responsive design
 ![Final images of website upon criteria completion](./images/module-2-ss4.png)
 
 ## Github Website Link
->: https://supremeomar.github.io/seo-challenge/
+>: https://github.com/supremeomar/module-02-portfolio
 
->: https://github.com/supremeomar/seo-challenge
+>: https://supremeomar.github.io/module-02-portfolio/
